@@ -207,7 +207,7 @@ lib/
 ## 📱 Download APK
 
 You can download the latest version of the app from:
-[APK/app.apk](APK/app.apk)
+[APK/app-release.apk](APK/app-release.apk)
 
 ## 🔧 API Setup
 
@@ -217,7 +217,22 @@ The application uses the YouTube Data API v3. It implements an API key rotation 
 2. Add them to the `_apiKeys` list in `api_service.dart`
 3. Configure Firebase credentials
 
-## 🌟 Advanced Features
+## 👤 Demo User Account
+
+For testing purposes, you can use the following demo account:
+
+**Email:** `jamalihassan0307@gmail.com`  
+**Password:** `123456@`
+
+## 📞 Contact Information
+
+For further details, support, or collaboration:
+
+- **WhatsApp:** +92 307 3921189
+- **Email:** jamalihassan0307@gmail.com
+- **Academic Email:** f22bd0cs1e02011@iub.edu.pk
+
+## �� Advanced Features
 
 - **Smart Caching**: Implements a 15-minute cache system to reduce API calls
 - **API Key Rotation**: Automatically rotates through multiple API keys
